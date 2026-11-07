@@ -1,0 +1,10 @@
+build/
+dist/
+nbproject/private/
+datos/
+*.class
+# Archivos generados por Maven
+/target/
+
+# Datos locales del sistema
+/datos/
